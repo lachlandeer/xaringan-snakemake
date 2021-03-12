@@ -1,6 +1,6 @@
 # Building xaringan slides with Snakemake
 
-[![Build Status](https://travis-ci.org/lachlandeer/xaringan-snakemake.svg?branch=master)](https://travis-ci.org/lachlandeer/xaringan-snakemake)
+[![Build Status](https://travis-ci.com/lachlandeer/xaringan-snakemake.svg?branch=master)](https://travis-ci.org/lachlandeer/xaringan-snakemake)
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-red.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![lifecycle](https://img.shields.io/badge/version-0.1-red.svg)]()
 
