@@ -28,3 +28,12 @@ rule build_html:
     shell:
         "{run_r} {input.runner} {input.slides} \
                     {output.slides} > {log} {log_all}"
+
+rule all:
+    input:
+        pdf  = "slides.pdf",
+        html = "slides.html"
+
+rule clean:
+    shell: 
+        "rm *.pdf *.html"
