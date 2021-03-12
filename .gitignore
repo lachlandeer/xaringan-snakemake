@@ -3,3 +3,9 @@
 .Rdata
 .httr-oauth
 .DS_Store
+.snakemake
+logs
+libs
+slides_files
+*.html
+*.pdf
