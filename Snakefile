@@ -38,3 +38,4 @@ rule clean:
         "rm *.pdf *.html"
 
 # --- renv rules --- #
+include: "rules/renv.smk"
